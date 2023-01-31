@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <Toaster />
       <Timer />
-      <p className="made-by">Made with a 💔</p>
+      <p className="made-by">Made with a 💔 and broken css, ofcourse.</p>
     </div>
   );
 }
